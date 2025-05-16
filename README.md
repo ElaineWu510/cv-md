@@ -8,12 +8,6 @@ Install dependencies:
 yarn install
 ```
 
-## Development
-
-```bash
-yarn dev
-```
-
 ## Static Generation
 
 This will create the `dist/` directory for publishing to static hosting:
@@ -36,8 +30,4 @@ using terminal run
 git commit
 
 git push
-
-yarn generate
-
-yarn deploy
 ```
