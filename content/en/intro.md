@@ -1,5 +1,5 @@
 ---
-title: Sample
+title: Intro
 description: ''
 position: 0
 category: 
