@@ -15,5 +15,8 @@
   },
   "devDependencies": {
     "push-dir": "^0.4.1"
+  },
+  "resolutions": {
+    "tar": "^7.5.7"
   }
 }
